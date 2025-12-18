@@ -66,6 +66,7 @@ public class BahnhoeferModel implements Observable {
         
         notifyObserver();
         addBahnhof(b);
+        readerProduct.schließen;
 
         
 }
